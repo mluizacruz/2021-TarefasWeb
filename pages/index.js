@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
-  let title = "Meu primeiro Web App"
+  let title = "Meu primeiro Web App - Maria Luiza"
   return (
     <div className={styles.container}>
       <Head>
