@@ -14,8 +14,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Meu primeiro webapp React
+          {title}
         </h1>
+        <h2>
+          Minhas tarefas diárias
+        </h2>
       </main>
 
       <footer className={styles.footer}>
